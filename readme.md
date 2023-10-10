@@ -19,11 +19,7 @@ Slice1 = []string{"bca", "cab"} \
 Slice2 = []string{"def", "fed"} \
 Slice3 = []string{"xyz"}
 
-    output = [][]string{
-	    {"bca", "cab"},
-		{"def", "fed"},
-		{"xyz"},
-	}
+    output = [][]string{{"bca", "cab"},{"def", "fed"},{"xyz"}}
 
 ## Solution
 

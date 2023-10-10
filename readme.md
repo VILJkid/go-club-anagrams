@@ -30,7 +30,7 @@ Slice3 = []string{"xyz"}
 ```golang
 func ListAllAnagramsInSlice(wordList []string) [][]string
 ```
-Function [ListAllAnagramsInSlice](https://github.com/VILJkid/golang-least-machine-problem/blob/bb788a09481d54f6349c8d6e5480bddd0750c6f4/problem.go?plain=1#L87-L96) solves the given problem using hashmap and iterating over each string and updating the map. \
+Function [ListAllAnagramsInSlice](https://github.com/VILJkid/go-club-anagrams/blob/1c1118d44b9d84b6e8c7931c68f52c7c7ec49a12/program.go#L86-L89) solves the given problem using hashmap and iterating over each string and updating the map. \
 Finally, it sorts the map and returns the result as a slice of slice of strings.
 
 ## Execution

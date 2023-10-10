@@ -1,20 +1,3 @@
-/*
-	Problem statement:
-	You are given a slice of strings.
-	input = []string{string1, string2, string3, ...}
-
-	Sort and club the strings together if they are anagrams.
-
-	Eg:
-		input = []string{"fed", "bca", "def", "cab", "xyz"}
-
-		output = [][]string{
-			{"bca", "cab"},
-			{"def", "fed"},
-			{"xyz"},
-		}
-*/
-
 package main
 
 import (
